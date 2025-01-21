@@ -93,4 +93,4 @@ We welcome contributions to make *Guardian Angel* more robust and accessible. Yo
 - Submit pull requests.
 
 ---
-*Check out the repository for more details and code*: [Guardian Angel GitHub Repository](https://github.com/Herie-David/Guardian-Angel)
+*Check out the repository for more details and code*: 
