@@ -54,7 +54,7 @@ This prototype showcases a hardware implementation using an *MPU6050 sensor* and
 ### Installation
 1. *Clone the repository*:
    bash
-   git clone https://github.com/Herie-David/Guardian-Angel.git
+   git clone (https://github.com/PrayashMishra022/Guardian-Angel-Fall-Detection-System)
    
 2. *Hardware Setup*:
    - Connect the *MPU6050* and *ESP8266* according to the wiring diagram in the image.
